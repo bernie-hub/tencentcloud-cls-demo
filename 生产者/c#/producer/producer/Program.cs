@@ -6,7 +6,7 @@
  * 注意：
  *  1. 该Demo基于Confluent.Kafka/1.8.2版本验证通过
  *  2. MessageMaxBytes最大值不能超过5M
- *  3. 该demo使用同步的方式生产，在使用时也可根据业务场景调整未异步的方式
+ *  3. 该demo使用同步的方式生产，在使用时也可根据业务场景调整为异步的方式
  *  4. 其他参数在使用过程中可以根据业务参考文档自己调整：https://docs.confluent.io/platform/current/clients/confluent-kafka-dotnet/_site/api/Confluent.Kafka.ProducerConfig.html
  *
  * Confluent.Kafka 参考文档：https://docs.confluent.io/platform/current/clients/confluent-kafka-dotnet/_site/api/Confluent.Kafka.html
