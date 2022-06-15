@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ob50M265KsYxKU08e4r5IvsD30BR194tz1aCfHp3PFwn/yAZi3eoOy4esFoeXE7NzRLvI/P8GPuvjUqoMjfxOA==",
+  "success": true,
+  "projectFilePath": "/Users/zxd/Documents/code/tencentcloud-cls-demo/生产者/c#/producer/producer/producer.csproj",
+  "expectedPackageFiles": [
+    "/Users/zxd/.nuget/packages/confluent.kafka/1.8.2/confluent.kafka.1.8.2.nupkg.sha512",
+    "/Users/zxd/.nuget/packages/librdkafka.redist/1.8.2/librdkafka.redist.1.8.2.nupkg.sha512",
+    "/Users/zxd/.nuget/packages/system.memory/4.5.0/system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
